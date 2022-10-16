@@ -1,4 +1,4 @@
-# Project Name
+# Azure MITT - Machine Interpretation and Translation Toolkit
 
 (short, 1-3 sentenced, description of the project)
 
