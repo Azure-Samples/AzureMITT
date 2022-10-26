@@ -1,14 +1,15 @@
-# Azure MITT - Machine Interpretation and Translation Toolkit
+# Azure MITT - Microsoft Machine Interpretation and Translation Toolkit
 
-(short, 1-3 sentenced, description of the project)
+Utilizing the power of Azure Cognitive services such as Speech-to-text, Translator, and Neural Text-to-Speech packaged as containers and orchestrated on Kubernetes. Take a world class speech-to-speech translation capability anywhere you have the need, on the edge, on premesis, or in the cloud. 
 
 ## Features
 
-This project framework provides the following features:
+This project framework provides the following features, including but not limited to:
 
-* Feature 1
-* Feature 2
-* ...
+* Speech-to-Speech translated chat
+* Speech-to-Speech translated broadcast in multi-languages
+* Batch file transcription and translation
+* Image-to-image translation
 
 ## Getting Started
 
@@ -38,7 +39,7 @@ This project framework provides the following features:
 
 ## Demo
 
-A demo app is included to show how to use the project.
+A demo video demonstrates a few of the features.
 
 To run the demo, follow these steps:
 
