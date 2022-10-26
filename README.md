@@ -13,48 +13,16 @@ This project framework provides the following features, including but not limite
 * Batch file transcription and translation
 * Image-to-image translation
 
-## Getting Started
-
-### Prerequisites
-
-(ideally very short, if any)
-
-- OS
-- Library version
-- ...
-
-### Installation
-
-(ideally very short)
-
-- npm install [package name]
-- mvn install
-- ...
-
-### Quickstart
-(Add steps to get up and running quickly)
-
-1. git clone [repository clone url]
-2. cd [repository name]
-3. ...
-
-
 ## Demo
 
 A demo video demonstrates a few of the features.
 
-To run the demo, follow these steps:
-
-(Add steps to start up the demo)
-
-1.
-2.
-3.
 
 ## Resources
+ * Azure Cognitive Services https://learn.microsoft.com/en-us/azure/cognitive-services/what-are-cognitive-services
+ * Containers 
 
-(Any additional resources or related projects)
+## Next Steps
+The source code is pending review before being published.
 
-- Link to supporting information
-- Link to similar sample
-- ...
+Contact your Microsoft represetative or the Azure Cognitive Services team to learn more.
