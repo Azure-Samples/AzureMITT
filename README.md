@@ -2,7 +2,7 @@
 
 Utilizing the power of Azure Cognitive Services such as Speech-to-text, Translator, and Neural Text-to-Speech, packaged as containers and orchestrated on Kubernetes, we've created an example of how you can take a world class speech-to-speech translation capabilities anywhere you have the need, on the edge, on premesis, or in the cloud. There are hundreds of supported languages and dialects.
 
-<img src="MITTOV1.png" alt="MITT Overview" width="1800" height="550">
+<img src="MITTOV1.png" alt="MITT Overview">
 
 ## Features
 
@@ -15,7 +15,7 @@ This project framework provides the following features, including but not limite
 
 ## Demo
 
-A demo video demonstrates a few of the features.
+This demo video demonstrates a few of the features. <HERE>
 
 
 ## Resources
