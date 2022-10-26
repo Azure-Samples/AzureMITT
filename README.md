@@ -20,7 +20,7 @@ A demo video demonstrates a few of the features.
 
 ## Resources
  * Azure Cognitive Services https://learn.microsoft.com/en-us/azure/cognitive-services/what-are-cognitive-services
- * Containers 
+ * Containers https://learn.microsoft.com/en-us/azure/cognitive-services/cognitive-services-container-support
 
 ## Next Steps
 The source code is pending review before being published.
