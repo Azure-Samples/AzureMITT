@@ -1,6 +1,6 @@
 # Azure MITT - Microsoft Machine Interpretation and Translation Toolkit
 
-Utilizing the power of Azure Cognitive Services such as Speech-to-text, Translator, and Neural Text-to-Speech, packaged as containers and orchestrated on Kubernetes, we've created an example of how you can take a world class speech-to-speech translation capabilities anywhere you have the need, on the edge, on premesis, or in the cloud. There are hundreds of supported languages and dialects.
+Utilizing the power of Azure Cognitive Services such as Speech-to-text, Translator, and Neural Text-to-Speech, packaged as containers and orchestrated on Kubernetes, we've created an example of how you can take a set of world class, DDIL capable, speech-to-speech translation capabilities anywhere you have the need, on the edge, on premesis, or in the cloud. There are hundreds of supported languages and dialects.
 
 <img src="MITTOV1.png" alt="MITT Overview">
 
@@ -26,3 +26,6 @@ https://youtu.be/8uUBZXNb3lU
 The source code is pending review before being published.
 
 Contact your Microsoft represetative or the Azure Cognitive Services team to learn more.
+
+## Attribution
+Brought to you by the Hybrid Solutions Engineering Team Michael Farrell, Jonathan King, Mike Tse, Gabe Bell, Linford Fritz, James Greene, Andrew Garcia,
