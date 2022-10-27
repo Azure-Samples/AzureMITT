@@ -28,4 +28,4 @@ The source code is pending review before being published.
 Contact your Microsoft represetative or the Azure Cognitive Services team to learn more.
 
 ## Attribution
-Brought to you by the Hybrid Solutions Engineering Team: Michael Farrell, Jonathan King, Mike Tse, Gabe Bell, Linford Fritz, James Greene, Andrew Garcia,
+Brought to you by the Hybrid Solutions Engineering Team: Michael Farrell, Jonathan King, Mike Tse, Gabe Bell, Linford Fritz, James Greene, Andrew Garcia, Natha
